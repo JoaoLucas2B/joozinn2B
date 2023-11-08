@@ -83,11 +83,17 @@ h1 {
 
 .tiago{
   border-radius: 20px;
-  width: 180px;
-  height: 101px;
+  width: 300px;
+  height: 200px;
 }
 
 .by{
   text-align: right;
   margin-right: 1em;
+}
+
+.jaozinho{
+  background-image: url(./maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
